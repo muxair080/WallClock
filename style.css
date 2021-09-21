@@ -4,8 +4,7 @@
     margin: auto;
     height: 40vw;
     width: 40vw;
-    /* top: 30px; */
-    border: 2px solid black;
+    top: 30px;
     background: url(clock.jpg) no-repeat;
     background-size: 100%;
 
